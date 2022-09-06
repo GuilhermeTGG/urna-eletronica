@@ -1,7 +1,7 @@
 <body>
 <h1>Simulador da Urna Eletrônica</h1>
 <h2>Objetivo</h1>
-Aprimorar meus conhecimentos em programação pondo em prática o que eu aprendi.
+Aprimorar meus conhecimentos em programação colocando em prática o que eu aprendi.
 
  <h2>Funcionamento</h2>
  <ul>
